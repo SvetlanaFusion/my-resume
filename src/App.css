@@ -1,0 +1,9 @@
+.Header {
+  height: 704px;
+  flex-direction: row;
+}
+.avatar {
+  width: 50%;
+  border-radius: 50%;
+}
+
